@@ -1,5 +1,5 @@
 {
-  "name": "arraybuffer-to-hex",
+  "name": "@npmlib/arraybuffer-to-hex",
   "version": "0.0.1",
   "description": "Convert ArrayBuffer to hex string",
   "main": "arraybuffer-to-hex.js",

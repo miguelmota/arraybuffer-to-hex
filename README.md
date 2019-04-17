@@ -5,7 +5,7 @@
 ## Install
 
 ```bash
-npm install arraybuffer-to-hex
+npm install @npmlib/arraybuffer-to-hex
 ```
 
 ## Getting started
